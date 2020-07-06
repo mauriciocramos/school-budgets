@@ -21,7 +21,7 @@ The model is developed using Python Jupyter Notebooks for [exploratory data anal
 
 The actual challenge is to accurately classified hundreds of thousands of budget lines from thousands of schools, based on two numeric columns (people and money), millions of non-standardized budget text descriptions, a high percentage (29%) of missing data and quadcore 1.6Ghz notebook equped with 16 gigabytes of RAM memory.
 
-The performance metric used is multi-multiclass log loss, scoring predictions of 104 data classes under 9 data labels.  That metric is used to measure the performance of a multiclass multilabel classification optimization problem.
+The performance metric used is multi-multiclass log loss, scoring predictions of 104 data classes under 9 data labels.  That metric is used to measure the performance of a multiclass multilabel classification optimization problems.
 
 The development environment used is Anaconda, containing PyCharm IDE, Python 3.7 and Python's scipy and scikit-learn modules.
 
