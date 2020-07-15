@@ -2,7 +2,7 @@
 
 A data science solo project of machine learning for the [Drivendata's competition of US school budget classification](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/).
 
-Merchandising: As of the date of this document's update, I hold the [11th place](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/leaderboard/) of 1935 competitors.
+Merchandising: As of the date of this document's update, I hold the [9th place](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/leaderboard/) of 1950 competitors.
 
 It's been a great learning opportunity to solve such a real business problem: to develop a predictive model able to classify school budget detail lines otherwise partially done by specialized consultants which are costly and not scalable US wide.
 
