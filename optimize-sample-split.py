@@ -1,11 +1,10 @@
 # Custom modules
 import sys
-sys.path.insert(1, '../machine-learning')
-from model_selection.multilabel import multilabel_sample_dataframe, multilabel_train_test_split
+sys.path.insert(1, '/home/mauricio/code/mcr')
+from mcr.ml.model_selection.multilabel import multilabel_sample_dataframe, multilabel_train_test_split
 
 # Standard modules
 import pickle
-import numpy as np
 import pandas as pd
 import numpy as np
 
